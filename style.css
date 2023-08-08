@@ -1,0 +1,15 @@
+
+nav {
+    padding: 5%;
+}
+
+#MyMenu{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+
+.myItem a{
+    text-decoration: none;
+    color: brown;
+}
